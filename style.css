@@ -1,6 +1,0 @@
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:Arial,sans-serif;background:#050b14;color:#fff}
-img{max-width:100%;display:block}
-.lightbox{position:fixed;inset:0;background:rgba(0,0,0,.95);z-index:999999;display:flex;align-items:center;justify-content:center;padding:20px}
-.lightbox img{max-width:95%;max-height:90vh;border-radius:15px}
-.lightbox span{position:absolute;top:20px;right:35px;font-size:50px;color:white;cursor:pointer}
